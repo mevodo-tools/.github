@@ -26,6 +26,15 @@
 <p><a href="https://github.com/mevodo-tools/clipseal-releases/releases"><strong>↓ Downloads &amp; release notes</strong></a> &nbsp; · &nbsp; <a href="https://github.com/mevodo-tools/clipseal-releases#installation">Installation guide →</a></p>
 </td>
 </tr>
+<tr>
+<td width="128" align="center"><img src="https://github.com/mevodo-tools/deploy-bell-releases/raw/refs/heads/main/assets/deploy-bell-icon.png" width="96" height="96" alt="DeployBell"></td>
+<td>
+<h2>DeployBell</h2>
+<p>Review GitHub deployment approvals from your macOS menu bar. Track pending deployments, get notified when a review is needed, and use optional AI change assessments to make informed decisions.</p>
+
+<p><a href="https://github.com/mevodo-tools/deploy-bell-releases/releases"><strong>↓ Downloads &amp; release notes</strong></a> &nbsp; · &nbsp; <a href="https://github.com/mevodo-tools/deploy-bell-releases#installation">Installation guide →</a></p>
+</td>
+</tr>
 </table>
 
 
